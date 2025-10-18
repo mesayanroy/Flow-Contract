@@ -2,6 +2,9 @@
 
 A gamified ERC-721 (NFT) smart contract built with Solidity and OpenZeppelin, designed to represent player achievements in a blockchain-based game. Each NFT tracks a player’s experience points (XP) and level, automatically updating as they progress through the game.
 
+<img width="1082" height="633" alt="Screenshot 2025-10-18 124132" src="https://github.com/user-attachments/assets/41119760-56ab-40e8-bbea-3785521943d6" />
+
+
 ⚙️ Features
 
 ERC-721 Standard — Fully compliant NFT implementation.
