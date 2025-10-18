@@ -17,6 +17,7 @@ Upgradeable Level Thresholds — Easily manage XP milestones per level.
 🧩 Contract Overview
 
 Contract Address - 0xb96F31bc07777f1f48De16533225f0964951E8f1
+
 State Variables
 Variable	Type	Description
 _tokenIdCounter	uint256	Keeps track of minted token IDs
